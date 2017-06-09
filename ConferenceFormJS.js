@@ -1,7 +1,7 @@
 
   $(document).ready(function() {
 
-  $(".fieldtype-3-0 .class123-radio .label-text .label-cont .class123-labelinfo").text("slots left");
+  $("#row11 .class123-threecol .class123-radio .label-text .label-cont .class123-labelinfo").text("slots left");
 
 });
 
