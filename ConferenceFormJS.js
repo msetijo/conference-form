@@ -7,6 +7,8 @@
   $(".fieldcontainer .fieldtype-3-0 .rowright label[title]:not([title='']) .class123-labelinfo").text(function () {
       return $(this).text().replace("0 choices left", "session is full");
   });
+  
+  $(".fieldcontainer .fieldtype-3-0 .rowleft label").removeAttr("for");
 
 });
 
