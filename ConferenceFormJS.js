@@ -1,8 +1,11 @@
 
   $(document).ready(function() {
 
-  $("#row11 label[title=""] .class123-threecol .class123-radio .label-text .label-cont .class123-labelinfo").text(function(){
-    return $(this).text().replace("choices left", "slots left");
+  $(".fieldcontainer .fieldtype-3-0 .rowright label:not([title]) .class123-labelinfo").text(function () {
+    return $(this).text().replace("choices left", "slots left").replace("choice left", "slot left");
+  });
+  $(".fieldcontainer .fieldtype-3-0 .rowright label[title]:not([title='']) .class123-labelinfo").text(function () {
+      return $(this).text().replace("0 choices left", "session is full");
   });
 
 });
