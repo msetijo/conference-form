@@ -1,12 +1,12 @@
 
 
-var script = document.createElement('script');
-script.src = 'https://code.jquery.com/ui/1.12.1/jquery-ui.js';
-script.type = 'text/javascript';
-document.getElementsByTagName('head')[0].appendChild(script);
-
-
   $(document).ready(function() {
+    
+    var s = document.createElement("script");
+    s.type = "text/javascript";
+    s.src = "https://code.jquery.com/ui/1.12.1/jquery-ui.js";
+    // Use any selector
+    $("head").append(s);
 
     //Changes 'choice left' words
   $(".fieldcontainer .fieldtype-3-0 .rowright label:not([title]) .class123-labelinfo").text(function () {
