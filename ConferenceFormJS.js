@@ -1,4 +1,7 @@
 
+  $( function() {
+    $( document ).tooltip();
+  } );
 
   $(document).ready(function() {
     
@@ -19,8 +22,5 @@
     //removes automatic selection when user clicks on time label
   $(".fieldcontainer .fieldtype-3-0 .rowleft label").removeAttr("for");
 
-  $( function() {
-    $( document ).tooltip();
-  } );
 });
 
