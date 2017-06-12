@@ -8,6 +8,10 @@
     });
    });
 
+    //removes automatic selection when user clicks on time label
+  $(".fieldcontainer .fieldtype-3-0 .rowleft label").removeAttr("for");
+
+
   $(document).ready(function() {
     
     var s = document.createElement("script");
@@ -24,8 +28,6 @@
       return $(this).text().replace("0 choices left", "session is full");
   });
   
-    //removes automatic selection when user clicks on time label
-  $(".fieldcontainer .fieldtype-3-0 .rowleft label").removeAttr("for");
 
 });
 
