@@ -1,12 +1,3 @@
-  $( function() {
-    var tooltips = $( "[title]" ).tooltip({
-      position: {
-        my: "left top",
-        at: "right+5 top-5",
-        collision: "none"
-      }
-    });
-   });
 
     //removes automatic selection when user clicks on time label
   $(".fieldcontainer .fieldtype-3-0 .rowleft label").removeAttr("for");
