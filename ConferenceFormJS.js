@@ -15,7 +15,8 @@
     $(".fieldcontainer .fieldtype-3-0 .rowright label[title]:not([title='']) .class123-labelinfo").text(function () {
         return $(this).text().replace("0 choices left", "No more seats available");
     });
-  
-
+    $("#row10.fieldtype-3-0 label[for="id123-control29381265_1"]:hover").text(function () {
+        $("#row11 #brand.tooltip").css("display", "block");
+    });
 });
 
