@@ -17,7 +17,7 @@
     });
     $("#row10.fieldtype-3-0 label[for='id123-control29381265_1']").hover( function() {
         $("#row11 #brand.tooltip").css("display", "block");
-    }, function{
+    }, function () {
         $("#row11 #brand.tooltip").css("display", "none");
     });
 });
