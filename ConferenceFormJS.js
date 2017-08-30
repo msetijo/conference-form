@@ -1,6 +1,6 @@
 //removes automatic selection when user clicks on time label
 $(".fieldcontainer .fieldtype-3-0 .rowleft label").removeAttr("for");
-$(".fieldcontainer .fieldtype-3-0.rowfluid label").removeAttr("for");
+$(".fieldcontainer .fieldtype-3-0.row-fluid label").removeAttr("for");
 
 $(document).ready(function() {
 
