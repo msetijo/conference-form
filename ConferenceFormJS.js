@@ -70,46 +70,46 @@ $(document).ready(function() {
   
   /* DAY 2 09:15-10:15 Tooltip */
   $(".fieldtype-3-0 label[for='id123-control29381606_0'] ")
-  .after("<div class='thumbnail' id='devopsCulture'><h3>Culture and DevOps</h3><h4>Riku Vastelo / Gustavo Tanoni</h4> Fusce laoreet est nec ipsum mattis, elementum posuere felis faucibus. <a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx' target='_blank'>Read More</a></div>");
+  .after("<div class='thumbnail' id='devopsCulture'><h3>Culture and DevOps</h3><h4>Riku Vastelo / Gustavo Tanoni</h4> Fusce laoreet est nec ipsum mattis, elementum posuere felis faucibus. <a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx?day=wednesday' target='_blank'>Read More</a></div>");
   $(".fieldtype-3-0 label[for='id123-control29381606_0'] .class123-labelinfo").text(" DevOps Track");
   $(".fieldtype-3-0 label[for='id123-control29381606_1'] ")
-  .after("<div class='thumbnail' id='wow1'><h3>Ways of Working</h3><h4>Misi Racz / Ivy Li</h4> UX tools and methods we used at Ericsson. <a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx' target='_blank'>Read More</a></div>");
+  .after("<div class='thumbnail' id='wow1'><h3>Ways of Working</h3><h4>Misi Racz / Ivy Li</h4> UX tools and methods we used at Ericsson. <a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx?day=wednesday' target='_blank'>Read More</a></div>");
   $(".fieldtype-3-0 label[for='id123-control29381606_1'] .class123-labelinfo").text(" UX Track");
   $(".fieldtype-3-0 label[for='id123-control29381606_2'] ")
-  .after("<div class='thumbnail' id=''><h3>From NOC to SOC</h3><h4>Morgan L</h4> The presentation will focus on how we build what can be seen as one of the first XaaS service operations in a Global Service Centers. <a href='https://ericsson.sharepoint.com/sites/customer_experience/SitePages/CX%20Conference.aspx?day=wednesday#slot5'>Read More</a></div>");
+  .after("<div class='thumbnail' id=''><h3>From NOC to SOC</h3><h4>Morgan L</h4> The presentation will focus on how we build what can be seen as one of the first XaaS service operations in a Global Service Centers. <a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx?day=wednesday'>Read More</a></div>");
   $(".fieldtype-3-0 label[for='id123-control29381606_2'] .class123-labelinfo").text(" XaaS Track");
 
   /* DAY 2 10:45-11:45 Tooltip */
   $(".fieldtype-3-0 label[for='id123-control29381634_0'] ")
-  .after("<div class='thumbnail' id='devopsUx'><h3>Applying UX to DevOps</h3><h4>Andreas Johansson / Mohammed Issa</h4> Fusce laoreet est nec ipsum mattis, elementum posuere felis faucibus. <a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx' target='_blank'>Read More</a></div>");
+  .after("<div class='thumbnail' id='devopsUx'><h3>Applying UX to DevOps</h3><h4>Andreas Johansson / Mohammed Issa</h4> Fusce laoreet est nec ipsum mattis, elementum posuere felis faucibus. <a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx?day=wednesday' target='_blank'>Read More</a></div>");
   $(".fieldtype-3-0 label[for='id123-control29381634_0'] .class123-labelinfo").text(" DevOps Track");
   $(".fieldtype-3-0 label[for='id123-control29381634_1'] ")
-  .after("<div class='thumbnail' id='wow2'><h3>Ways of Working</h3><h4>Nils-Erik Gustafsson / Xiaoping Li</h4> UX tools and methods we used at Ericsson. <a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx' target='_blank'>Read More</a></div>");
+  .after("<div class='thumbnail' id='wow2'><h3>Ways of Working</h3><h4>Nils-Erik Gustafsson / Xiaoping Li</h4> UX tools and methods we used at Ericsson. <a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx?day=wednesday' target='_blank'>Read More</a></div>");
   $(".fieldtype-3-0 label[for='id123-control29381634_1'] .class123-labelinfo").text(" UX Track");
   $(".fieldtype-3-0 label[for='id123-control29381634_2'] ")
-  .after("<div class='thumbnail' id='serviceability'><h3>Serviceability</h3><h4>Didem Pariltay</h4> What do we need to consider when we are designing a SaaS solution? What does SaaS - Serviceability mean? <a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx' target='_blank'>Read More</a></div>");
+  .after("<div class='thumbnail' id='serviceability'><h3>Serviceability</h3><h4>Didem Pariltay</h4> What do we need to consider when we are designing a SaaS solution? What does SaaS - Serviceability mean? <a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx?day=wednesday' target='_blank'>Read More</a></div>");
   $(".fieldtype-3-0 label[for='id123-control29381634_2'] .class123-labelinfo").text(" XaaS Track");
 
   /* DAY 2 13:00-14:30 Tooltip */
   $(".fieldtype-3-0 label[for='id123-control29381729_0'] ")
-  .after("<div class='thumbnail' id='devopsPractice'><h3>DevOps in Practice</h3><h4>Nils Henstrom</h4> Fusce laoreet est nec ipsum mattis, elementum posuere felis faucibus. <a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx' target='_blank'>Read More</a></div>");
+  .after("<div class='thumbnail' id='devopsPractice'><h3>DevOps in Practice</h3><h4>Nils Henstrom</h4> Fusce laoreet est nec ipsum mattis, elementum posuere felis faucibus. <a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx?day=wednesday' target='_blank'>Read More</a></div>");
   $(".fieldtype-3-0 label[for='id123-control29381729_0'] .class123-labelinfo").text(" DevOps Track");
   $(".fieldtype-3-0 label[for='id123-control29381729_1'] ")
-  .after("<div class='thumbnail' id='prodRelated1'><h3>Products Related</h3><h4>Onur Kurt / Ranjani Balakrishnan / Patrik Algotsson</h4> UX design on Ericsson products. <a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx' target='_blank'>Read More</a></div>");
+  .after("<div class='thumbnail' id='prodRelated1'><h3>Products Related</h3><h4>Onur Kurt / Ranjani Balakrishnan / Patrik Algotsson</h4> UX design on Ericsson products. <a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx?day=wednesday' target='_blank'>Read More</a></div>");
   $(".fieldtype-3-0 label[for='id123-control29381729_1'] .class123-labelinfo").text(" UX Track");
   $(".fieldtype-3-0 label[for='id123-control29381729_2'] ")
-  .after("<div class='thumbnail' id='cloud'><h3>Cloud Infrastructure</h3><h4>Martin Frojd</h4> An overview of the different product work that has lead up to the XaaS platform, and what the key requirements and success criteria we see for the platform being built. <a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx' target='_blank'>Read More</a></div>");
+  .after("<div class='thumbnail' id='cloud'><h3>Cloud Infrastructure</h3><h4>Martin Frojd</h4> An overview of the different product work that has lead up to the XaaS platform, and what the key requirements and success criteria we see for the platform being built. <a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx?day=wednesday' target='_blank'>Read More</a></div>");
   $(".fieldtype-3-0 label[for='id123-control29381729_2'] .class123-labelinfo").text(" XaaS Track");
 
   /* DAY 2 15:00-16:00 Tooltip */
   $(".fieldtype-3-0 label[for='id123-control29482222_0'] ")
-  .after("<div class='thumbnail' id='devopsAction'><h3>DevOps in Action & Keynote</h3><h4>Per Petterson / Steve Carter / Darlene Wilson</h4> Fusce laoreet est nec ipsum mattis, elementum posuere felis faucibus. <a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx' target='_blank'>Read More</a></div>");
+  .after("<div class='thumbnail' id='devopsAction'><h3>DevOps in Action & Keynote</h3><h4>Per Petterson / Steve Carter / Darlene Wilson</h4> Fusce laoreet est nec ipsum mattis, elementum posuere felis faucibus. <a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx?day=wednesday' target='_blank'>Read More</a></div>");
   $(".fieldtype-3-0 label[for='id123-control29482222_0'] .class123-labelinfo").text(" DevOps Track");
   $(".fieldtype-3-0 label[for='id123-control29482222_1'] ")
-  .after("<div class='thumbnail' id='prodRelated2'><h3>Products Related & Keynote</h3><h4>Shivatheja Venkata / Britt-Marie Lindberg / Didier Chincholle</h4> UX design on Ericsson products. <a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx' target='_blank'>Read More</a></div>");
+  .after("<div class='thumbnail' id='prodRelated2'><h3>Products Related & Keynote</h3><h4>Shivatheja Venkata / Britt-Marie Lindberg / Didier Chincholle</h4> UX design on Ericsson products. <a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx?day=wednesday' target='_blank'>Read More</a></div>");
   $(".fieldtype-3-0 label[for='id123-control29482222_1'] .class123-labelinfo").text(" UX Track");
   $(".fieldtype-3-0 label[for='id123-control29482222_2'] ")
-  .after("<div class='thumbnail' id='dcp'><h3>DCP / AI & Keynote</h3><h4>Beauford Atwater / Ioannis Fikouras / Jason Hoffman A</h4> Follow the DCP and Adaptive Inventory journeys in transforming to the as-a-Service business and delivery model.  <a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx' target='_blank'>Read More</a></div>");
+  .after("<div class='thumbnail' id='dcp'><h3>DCP / AI & Keynote</h3><h4>Beauford Atwater / Ioannis Fikouras / Jason Hoffman A</h4> Follow the DCP and Adaptive Inventory journeys in transforming to the as-a-Service business and delivery model.  <a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx?day=wednesday' target='_blank'>Read More</a></div>");
   $(".fieldtype-3-0 label[for='id123-control29482222_2'] .class123-labelinfo").text(" XaaS Track");
   
   $('.clear-choices').click(function() {
@@ -134,12 +134,10 @@ $(document).ready(function() {
         });
       }
   });
+  
+  $('#row4').after("<div class='dayLink'><a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx'>Day 1 Schedule</a></div>");
+  $('#row14').after("<div class='dayLink'><a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx?day=wednesday'>Day 2 Schedule</a></div>");
 
-  if ($(window).width() < 960) {
-	  $('.class123-threecol').click(function () {
-		  $('.'+$(this).attr("class") + '.thumbnail').css("visibility", "visible");
-	  });
-  }
   /*$(document).on('mouseover', 'span', function(e) {
     console.log($(e.target).attr('class'));
   }, function() {
