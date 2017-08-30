@@ -1,6 +1,6 @@
 //removes automatic selection when user clicks on time label
 $(".fieldcontainer .fieldtype-3-0 .rowleft label").removeAttr("for");
-$(".fieldcontainer .fieldtype-3-0.row-fluid label").removeAttr("for");
+$(".fieldcontainer .fieldtype-3-0 .rowup label").removeAttr("for");
 
 $(document).ready(function() {
 
@@ -113,7 +113,7 @@ $(document).ready(function() {
   $(".fieldtype-3-0 label[for='id123-control29482222_2'] .class123-labelinfo").text(" XaaS Track");
   
   $('.clear-choices').click(function() {
-		$(this).parent().parent().parent().removeClass("focus");
+		$(this).parent().parent().parent().parent().removeClass("focus");
 	});
   
   $('.class123-label').hover(function() {
