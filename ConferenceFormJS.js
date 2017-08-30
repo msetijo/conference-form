@@ -137,7 +137,7 @@ $(document).ready(function() {
 
   if ($(window).width() < 960) {
 	  $('.class123-threecol').click(function () {
-		  $('.thumbnail').trigger("mouseover");
+		  $('.'+$(this).attr("class") + '.thumbnail').css("visibility", "visible");
 	  });
   }
   /*$(document).on('mouseover', 'span', function(e) {
