@@ -22,10 +22,13 @@ $(document).ready(function() {
     /* DAY 1 09:45-10:30 Tooltip */
   $(".fieldtype-3-0 label[for='id123-control29381265_0'] ")
   .after("<div class='thumbnail' id='security'><h3>Keynote & Big Picture on Security and DevOps</h3><h4>Ari Jouppila / Andreas Ljunggren</h4>Fusce laoreet est nec ipsum mattis, elementum posuere felis faucibus. <a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx' target='_blank'>Read More</a></div>");
+  $(".fieldtype-3-0 label[for='id123-control29381265_0'] .class123-labelinfo").text("DevOps");
   $(".fieldtype-3-0 label[for='id123-control29381265_1'] ")
   .after("<div class='thumbnail' id='brand'><h3>Keynote & Brand</h3><h4>Ari Jouppila / Rolando Ramirez</h4> Updates on Brand Design Work 2.0. <a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx' target='_blank'>Read More</a></div>");
+  $(".fieldtype-3-0 label[for='id123-control29381265_1'] .class123-labelinfo").text("UX");
   $(".fieldtype-3-0 label[for='id123-control29381265_2'] ")
   .after("<div class='thumbnail' id='xaasFund'><h3>Keynote & XaaS Fundamentals</h3><h4>Ari Jouppila / Andreas Havdrup</h4> This session will cover the fundamentals and characteristics of as-a-service, and in what business settings that as-a-service will work. <a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx' target='_blank'>Read More</a></div>");
+  $(".fieldtype-3-0 label[for='id123-control29381265_2'] .class123-labelinfo").text("XaaS");
 
   /* DAY 1 10:45-11:45 Tooltip */
   $(".fieldtype-3-0 label[for='id123-control29381412_0'] ")
