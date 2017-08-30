@@ -111,6 +111,10 @@ $(document).ready(function() {
   .after("<div class='thumbnail' id='dcp'><h3>DCP / AI & Keynote</h3><h4>Beauford Atwater / Ioannis Fikouras / Jason Hoffman A</h4> Follow the DCP and Adaptive Inventory journeys in transforming to the as-a-Service business and delivery model.  <a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx' target='_blank'></div>");
   $(".fieldtype-3-0 label[for='id123-control29482222_2'] .class123-labelinfo").text(" XaaS Track");
   
+  $('.clear-choices').click(function() {
+		$(this).parent().parent().parent().parent().removeClass("focus");
+  }
+  
   $('.class123-label').hover(function() {
       //console.log($(e.target));
       //console.log(".fieldtype-3-0 label[for='"+$(this).attr("for")+"'] + .checkboxSeperator .tooltip");
