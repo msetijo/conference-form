@@ -113,7 +113,7 @@ $(document).ready(function() {
   
   $('.clear-choices').click(function() {
 		$(this).parent().parent().parent().removeClass("focus");
-  }
+	});
   
   $('.class123-label').hover(function() {
       //console.log($(e.target));
