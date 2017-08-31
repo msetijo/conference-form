@@ -22,7 +22,7 @@ $(document).ready(function() {
   
     /* DAY 1 09:45-10:30 Tooltip */
   $(".fieldtype-3-0 label[for='id123-control29381265_0'] ")
-  .after("<div class='thumbnail' id='security'><h3>Keynote & Big Picture on Security and DevOps</h3><h4>Ari Jouppila / Andreas Ljunggren</h4>Fusce laoreet est nec ipsum mattis, elementum posuere felis faucibus. <div class='link'><a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx' target='_blank'>Read More</a></div></div>");
+  .after("<div class='thumbnail' id='security'><h3>Keynote & Big Picture on Security and DevOps</h3><h4>Ari Jouppila / Andreas Ljunggren</h4>Come join Andreas Ljunggren, the BDGS Expert in Product Security, where he will paint the “Big Picture” and demystify security (including privacy, compliancy, legalilty);  <div class='link'><a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx' target='_blank'>Read More</a></div></div>");
   $(".fieldtype-3-0 label[for='id123-control29381265_0'] .class123-labelinfo").text(" DevOps Track");
   $(".fieldtype-3-0 label[for='id123-control29381265_1'] ")
   .after("<div class='thumbnail' id='brand'><h3>Keynote & Brand</h3><h4>Ari Jouppila / Rolando Ramirez</h4> Updates on Brand Design Work 2.0. <div class='link'><a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx' target='_blank'>Read More</a></div></div>");
@@ -44,7 +44,7 @@ $(document).ready(function() {
 
   /* DAY 1 13:00-14:30 Tooltip */
   $(".fieldtype-3-0 label[for='id123-control29381481_0'] ")
-  .after("<div class='thumbnail' id='gfWCD'><h3>DevOps Strategy</h3><h4>Jonas Wigander / Torsten Dinsing</h4> Fusce laoreet est nec ipsum mattis, elementum posuere felis faucibus. <div class='link'><a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx' target='_blank'>Read More</a></div></div>");
+  .after("<div class='thumbnail' id='gfWCD'><h3>DevOps Strategy</h3><h4>Jonas Wigander / Torsten Dinsing</h4> DevOps Strategy to Implementation.  Come see our co-presenters, Torsten Dinsing (Group Functions) and Jonas Wigander (BDGS R&D Operations) present the new Group Functions DevOps Strategy and show how the World Class Development Program is supporting and implementing that strategy as part of our transformation towards a Continuous Everything world. <div class='link'><a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx' target='_blank'>Read More</a></div></div>");
   $(".fieldtype-3-0 label[for='id123-control29381481_0'] .class123-labelinfo").text(" DevOps Track");
   $(".fieldtype-3-0 label[for='id123-control29381481_1'] ")
   .after("<div class='thumbnail' id='designExploration'><h3>Design Exploration</h3><h4>Didier Chincholle / Tosh Sano / Silky Sethi</h4> Updates on hardware design and related industrial work. <div class='link'><a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx' target='_blank'>Read More</a></div></div>");
@@ -55,7 +55,7 @@ $(document).ready(function() {
 
   /* DAY 1 15:00-16:30 Tooltip */
   $(".fieldtype-3-0 label[for='id123-control29381510_0'] ")
-  .after("<div class='thumbnail' id='devopsCustomers'><h3>DevOps and Our Customers</h3><h4>Fernando Garcia-Sanz / Steve Carter / Roland Knight</h4> Fusce laoreet est nec ipsum mattis, elementum posuere felis faucibus. <div class='link'><a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx' target='_blank'>Read More</a></div></div>");
+  .after("<div class='thumbnail' id='devopsCustomers'><h3>DevOps and Our Customers</h3><h4>Fernando Garcia-Sanz / Steve Carter / Roland Knight</h4> The T-Mobile Experience.  Using three “DevOps” engagements with T-Mobile US as examples, our presenters will discuss customer expectations, business realities, and how we are responding. <div class='link'><a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx' target='_blank'>Read More</a></div></div>");
   $(".fieldtype-3-0 label[for='id123-control29381510_0'] .class123-labelinfo").text(" DevOps Track");
   $(".fieldtype-3-0 label[for='id123-control29381510_1'] ")
   .after("<div class='thumbnail' id='userFocus'><h3>User Focus</h3><h4>Andreas Johansson / Virag Benke / Aoife McTague</h4> User-centered design experiences from our teams. <div class='link'><a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx' target='_blank'>Read More</a></div></div>");
@@ -70,7 +70,7 @@ $(document).ready(function() {
   
   /* DAY 2 09:15-10:15 Tooltip */
   $(".fieldtype-3-0 label[for='id123-control29381606_0'] ")
-  .after("<div class='thumbnail' id='devopsCulture'><h3>Culture and DevOps</h3><h4>Riku Vastelo / Gustavo Tanoni</h4> Fusce laoreet est nec ipsum mattis, elementum posuere felis faucibus. <div class='link'><a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx?day=wednesday' target='_blank'>Read More</a></div></div>");
+  .after("<div class='thumbnail' id='devopsCulture'><h3>Culture and DevOps</h3><h4>Riku Vastelo / Gustavo Tanoni</h4> DevOps has become much more than just a procedural change or a set of software techniques. It has become a cultural transformation. This presentation will show the cultural transformations which unleash this high state of software engineering. <div class='link'><a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx?day=wednesday' target='_blank'>Read More</a></div></div>");
   $(".fieldtype-3-0 label[for='id123-control29381606_0'] .class123-labelinfo").text(" DevOps Track");
   $(".fieldtype-3-0 label[for='id123-control29381606_1'] ")
   .after("<div class='thumbnail' id='wow1'><h3>Ways of Working</h3><h4>Misi Racz / Ivy Li</h4> UX tools and methods we used at Ericsson. <div class='link'><a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx?day=wednesday' target='_blank'>Read More</a></div></div>");
@@ -81,7 +81,7 @@ $(document).ready(function() {
 
   /* DAY 2 10:45-11:45 Tooltip */
   $(".fieldtype-3-0 label[for='id123-control29381634_0'] ")
-  .after("<div class='thumbnail' id='devopsUx'><h3>UX and DevOps</h3><h4>Andreas Johansson / Mohammed Issa</h4> Fusce laoreet est nec ipsum mattis, elementum posuere felis faucibus. <div class='link'><a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx?day=wednesday' target='_blank'>Read More</a></div></div>");
+  .after("<div class='thumbnail' id='devopsUx'><h3>UX and DevOps</h3><h4>Andreas Johansson / Mohammed Issa</h4> “Seek first to understand, then to be understood.”  How we applied User Experience practices to understand our internal state of DevOps, in order to drive our DevOps transformation strategies.  <div class='link'><a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx?day=wednesday' target='_blank'>Read More</a></div></div>");
   $(".fieldtype-3-0 label[for='id123-control29381634_0'] .class123-labelinfo").text(" DevOps Track");
   $(".fieldtype-3-0 label[for='id123-control29381634_1'] ")
   .after("<div class='thumbnail' id='wow2'><h3>Ways of Working</h3><h4>Nils-Erik Gustafsson / Xiaoping Li</h4> UX tools and methods we used at Ericsson. <div class='link'><a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx?day=wednesday' target='_blank'>Read More</a></div></div>");
@@ -92,7 +92,7 @@ $(document).ready(function() {
 
   /* DAY 2 13:00-14:30 Tooltip */
   $(".fieldtype-3-0 label[for='id123-control29381729_0'] ")
-  .after("<div class='thumbnail' id='devopsPractice'><h3>DevOps with Swisscom</h3><h4>Nils Henstrom</h4> Fusce laoreet est nec ipsum mattis, elementum posuere felis faucibus. <div class='link'><a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx?day=wednesday' target='_blank'>Read More</a></div></div>");
+  .after("<div class='thumbnail' id='devopsPractice'><h3>DevOps with Swisscom</h3><h4>Nils Henstrom</h4> Nils Henström (from the Joint Mobile Group) will provide us with a detailed insights into the DevOps partnership between Swisscom and Ericsson. <div class='link'><a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx?day=wednesday' target='_blank'>Read More</a></div></div>");
   $(".fieldtype-3-0 label[for='id123-control29381729_0'] .class123-labelinfo").text(" DevOps Track");
   $(".fieldtype-3-0 label[for='id123-control29381729_1'] ")
   .after("<div class='thumbnail' id='prodRelated1'><h3>Products Related</h3><h4>Onur Kurt / Ranjani Balakrishnan / Patrik Algotsson</h4> UX design on Ericsson products. <div class='link'><a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx?day=wednesday' target='_blank'>Read More</a></div></div>");
