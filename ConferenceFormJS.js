@@ -44,7 +44,7 @@ $(document).ready(function() {
 
   /* DAY 1 13:00-14:30 Tooltip */
   $(".fieldtype-3-0 label[for='id123-control29381481_0'] ")
-  .after("<div class='thumbnail' id='gfWCD'><h3>GF and WCD</h3><h4>Jonas Wigander / Torsten Dinsing</h4> Fusce laoreet est nec ipsum mattis, elementum posuere felis faucibus. <a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx' target='_blank'>Read More</a></div>");
+  .after("<div class='thumbnail' id='gfWCD'><h3>DevOps Strategy</h3><h4>Jonas Wigander / Torsten Dinsing</h4> Fusce laoreet est nec ipsum mattis, elementum posuere felis faucibus. <a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx' target='_blank'>Read More</a></div>");
   $(".fieldtype-3-0 label[for='id123-control29381481_0'] .class123-labelinfo").text(" DevOps Track");
   $(".fieldtype-3-0 label[for='id123-control29381481_1'] ")
   .after("<div class='thumbnail' id='designExploration'><h3>Design Exploration</h3><h4>Didier Chincholle / Tosh Sano / Silky Sethi</h4> Updates on hardware design and related industrial work. <a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx' target='_blank'>Read More</a></div>");
@@ -81,7 +81,7 @@ $(document).ready(function() {
 
   /* DAY 2 10:45-11:45 Tooltip */
   $(".fieldtype-3-0 label[for='id123-control29381634_0'] ")
-  .after("<div class='thumbnail' id='devopsUx'><h3>Applying UX to DevOps</h3><h4>Andreas Johansson / Mohammed Issa</h4> Fusce laoreet est nec ipsum mattis, elementum posuere felis faucibus. <a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx?day=wednesday' target='_blank'>Read More</a></div>");
+  .after("<div class='thumbnail' id='devopsUx'><h3>UX and DevOps</h3><h4>Andreas Johansson / Mohammed Issa</h4> Fusce laoreet est nec ipsum mattis, elementum posuere felis faucibus. <a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx?day=wednesday' target='_blank'>Read More</a></div>");
   $(".fieldtype-3-0 label[for='id123-control29381634_0'] .class123-labelinfo").text(" DevOps Track");
   $(".fieldtype-3-0 label[for='id123-control29381634_1'] ")
   .after("<div class='thumbnail' id='wow2'><h3>Ways of Working</h3><h4>Nils-Erik Gustafsson / Xiaoping Li</h4> UX tools and methods we used at Ericsson. <a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx?day=wednesday' target='_blank'>Read More</a></div>");
@@ -92,7 +92,7 @@ $(document).ready(function() {
 
   /* DAY 2 13:00-14:30 Tooltip */
   $(".fieldtype-3-0 label[for='id123-control29381729_0'] ")
-  .after("<div class='thumbnail' id='devopsPractice'><h3>DevOps in Practice</h3><h4>Nils Henstrom</h4> Fusce laoreet est nec ipsum mattis, elementum posuere felis faucibus. <a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx?day=wednesday' target='_blank'>Read More</a></div>");
+  .after("<div class='thumbnail' id='devopsPractice'><h3>DevOps with Swisscom</h3><h4>Nils Henstrom</h4> Fusce laoreet est nec ipsum mattis, elementum posuere felis faucibus. <a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx?day=wednesday' target='_blank'>Read More</a></div>");
   $(".fieldtype-3-0 label[for='id123-control29381729_0'] .class123-labelinfo").text(" DevOps Track");
   $(".fieldtype-3-0 label[for='id123-control29381729_1'] ")
   .after("<div class='thumbnail' id='prodRelated1'><h3>Products Related</h3><h4>Onur Kurt / Ranjani Balakrishnan / Patrik Algotsson</h4> UX design on Ericsson products. <a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx?day=wednesday' target='_blank'>Read More</a></div>");
@@ -135,8 +135,8 @@ $(document).ready(function() {
       }
   });
   
-  $('#row4').after("<div class='dayLink'><a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx'>Day 1 Schedule</a></div>");
-  $('#row14').after("<div class='dayLink'><a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx?day=wednesday'>Day 2 Schedule</a></div>");
+  $('#row4').after("<div class='dayLink'><a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx' target='_blank'>Day 1 Schedule</a></div>");
+  $('#row14').after("<div class='dayLink'><a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx?day=wednesday' target='_blank'>Day 2 Schedule</a></div>");
 
   /*$(document).on('mouseover', 'span', function(e) {
     console.log($(e.target).attr('class'));
