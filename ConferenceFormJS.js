@@ -22,7 +22,7 @@ $(document).ready(function() {
   
     /* DAY 1 09:45-10:30 Tooltip */
   $(".fieldtype-3-0 label[for='id123-control29381265_0'] ")
-  .after("<div class='thumbnail' id='security'><h3>Keynote & Big Picture on Security and DevOps</h3><h4>Ari Jouppila / Andreas Ljunggren</h4>Come join Andreas Ljunggren, the BDGS Expert in Product Security, where he will paint the “Big Picture” and demystify security (including privacy, compliancy, legalilty);  <div class='link'><a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx' target='_blank'>Read More</a></div></div>");
+  .after("<div class='thumbnail' id='security'><h3>Keynote & Big Picture on Security and DevOps</h3><h4>Ari Jouppila / Andreas Ljunggren</h4>Come join Andreas Ljunggren, the BDGS Expert in Product Security, where he will paint the “Big Picture” and demystify security (including privacy, compliancy, legalilty).  <div class='link'><a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx' target='_blank'>Read More</a></div></div>");
   $(".fieldtype-3-0 label[for='id123-control29381265_0'] .class123-labelinfo").text(" DevOps Track");
   $(".fieldtype-3-0 label[for='id123-control29381265_1'] ")
   .after("<div class='thumbnail' id='brand'><h3>Keynote & Brand</h3><h4>Ari Jouppila / Rolando Ramirez</h4> Updates on Brand Design Work 2.0. <div class='link'><a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx' target='_blank'>Read More</a></div></div>");
@@ -44,7 +44,7 @@ $(document).ready(function() {
 
   /* DAY 1 13:00-14:30 Tooltip */
   $(".fieldtype-3-0 label[for='id123-control29381481_0'] ")
-  .after("<div class='thumbnail' id='gfWCD'><h3>DevOps Strategy</h3><h4>Jonas Wigander / Torsten Dinsing</h4> DevOps Strategy to Implementation.  Come see our co-presenters present the new Group Functions DevOps Strategy and show how the World Class Development Program is supporting and implementing that strategy as part of our transformation towards a Continuous Everything world. <div class='link'><a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx' target='_blank'>Read More</a></div></div>");
+  .after("<div class='thumbnail' id='gfWCD'><h3>DevOps Strategy</h3><h4>Jonas Wigander / Torsten Dinsing</h4> DevOps Strategy to Implementation.  Come see our co-presenters present the new Group Functions DevOps Strategy and show how the World Class Development Program is supporting and implementing that strategy. <div class='link'><a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx' target='_blank'>Read More</a></div></div>");
   $(".fieldtype-3-0 label[for='id123-control29381481_0'] .class123-labelinfo").text(" DevOps Track");
   $(".fieldtype-3-0 label[for='id123-control29381481_1'] ")
   .after("<div class='thumbnail' id='designExploration'><h3>Design Exploration</h3><h4>Didier Chincholle / Tosh Sano / Silky Sethi</h4> Updates on hardware design and related industrial work. <div class='link'><a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx' target='_blank'>Read More</a></div></div>");
