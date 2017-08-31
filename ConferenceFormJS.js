@@ -116,6 +116,8 @@ $(document).ready(function() {
 		$(this).parent().parent().parent().parent().removeClass("focus");
 	});
   
+  $('.fieldcontainer25').after("<div class='message'>A conformation email will be sent to you.</div>");
+	  
   $('.class123-label').hover(function() {
       //console.log($(e.target));
       //console.log(".fieldtype-3-0 label[for='"+$(this).attr("for")+"'] + .checkboxSeperator .tooltip");
