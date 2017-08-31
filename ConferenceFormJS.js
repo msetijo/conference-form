@@ -138,7 +138,7 @@ $(document).ready(function() {
   $('#row4').after("<div class='dayLink'><div class='link'><a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx' target='_blank'>Day 1 Schedule</a></div>");
   $('#row14').after("<div class='dayLink'><div class='link'><a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx?day=wednesday' target='_blank'>Day 2 Schedule</a></div>");
   
-   $('#fieldcontainer25').after("<div class='message'>A conformation email will be sent to you.</div>");
+   $('#fieldcontainer25').after("<div class='message'>A confirmation email will be sent to you.</div>");
 
   /*$(document).on('mouseover', 'span', function(e) {
     console.log($(e.target).attr('class'));
