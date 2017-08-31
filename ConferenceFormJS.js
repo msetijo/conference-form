@@ -44,7 +44,7 @@ $(document).ready(function() {
 
   /* DAY 1 13:00-14:30 Tooltip */
   $(".fieldtype-3-0 label[for='id123-control29381481_0'] ")
-  .after("<div class='thumbnail' id='gfWCD'><h3>DevOps Strategy</h3><h4>Jonas Wigander / Torsten Dinsing</h4> DevOps Strategy to Implementation.  Come see our co-presenters, Torsten Dinsing (Group Functions) and Jonas Wigander (BDGS R&D Operations) present the new Group Functions DevOps Strategy and show how the World Class Development Program is supporting and implementing that strategy as part of our transformation towards a Continuous Everything world. <div class='link'><a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx' target='_blank'>Read More</a></div></div>");
+  .after("<div class='thumbnail' id='gfWCD'><h3>DevOps Strategy</h3><h4>Jonas Wigander / Torsten Dinsing</h4> DevOps Strategy to Implementation.  Come see our co-presenters present the new Group Functions DevOps Strategy and show how the World Class Development Program is supporting and implementing that strategy as part of our transformation towards a Continuous Everything world. <div class='link'><a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx' target='_blank'>Read More</a></div></div>");
   $(".fieldtype-3-0 label[for='id123-control29381481_0'] .class123-labelinfo").text(" DevOps Track");
   $(".fieldtype-3-0 label[for='id123-control29381481_1'] ")
   .after("<div class='thumbnail' id='designExploration'><h3>Design Exploration</h3><h4>Didier Chincholle / Tosh Sano / Silky Sethi</h4> Updates on hardware design and related industrial work. <div class='link'><a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx' target='_blank'>Read More</a></div></div>");
@@ -103,7 +103,7 @@ $(document).ready(function() {
 
   /* DAY 2 15:00-16:00 Tooltip */
   $(".fieldtype-3-0 label[for='id123-control29482222_0'] ")
-  .after("<div class='thumbnail' id='devopsAction'><h3>DevOps in Action & Keynote</h3><h4>Per Petterson / Steve Carter / Darlene Wilson</h4> Fusce laoreet est nec ipsum mattis, elementum posuere felis faucibus. <div class='link'><a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx?day=wednesday' target='_blank'>Read More</a></div></div>");
+  .after("<div class='thumbnail' id='devopsAction'><h3>DevOps in Action & Keynote</h3><h4>Per Petterson / Steve Carter / Darlene Wilson</h4> Demo and discussion of the ADP Platform. <div class='link'><a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx?day=wednesday' target='_blank'>Read More</a></div></div>");
   $(".fieldtype-3-0 label[for='id123-control29482222_0'] .class123-labelinfo").text(" DevOps Track");
   $(".fieldtype-3-0 label[for='id123-control29482222_1'] ")
   .after("<div class='thumbnail' id='prodRelated2'><h3>Products Related & Keynote</h3><h4>Shivatheja Venkata / Britt-Marie Lindberg / Didier Chincholle</h4> UX design on Ericsson products. <div class='link'><a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx?day=wednesday' target='_blank'>Read More</a></div></div>");
