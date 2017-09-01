@@ -118,7 +118,7 @@ $(document).ready(function() {
 	
 	if($('.class123-threecol input').is(':checked')){
 		
-		$('.class123-threecol input').parent().parent().parent().parent().parent().css("background","#e9f1fc !important");
+		$('.clear-choices').css("display","inline");
 		
 	}
   $('.class123-threecol').hover(function() {
