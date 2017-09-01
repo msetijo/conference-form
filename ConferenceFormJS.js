@@ -116,11 +116,7 @@ $(document).ready(function() {
 		$(this).parent().parent().parent().parent().removeClass("focus");
 	});
 	
-	if($('input:radio:checked').length){
-		
-		$('.clear-choices').css("display","inline");
-		
-	}
+
   $('.class123-threecol').hover(function() {
       //console.log($(e.target));
       //console.log(".fieldtype-3-0 label[for='"+$(this).attr("for")+"'] + .checkboxSeperator .tooltip");
