@@ -116,12 +116,9 @@ $(document).ready(function() {
 		$(this).parent().parent().parent().parent().removeClass("focus");
 	});
 	
-	 	  $("input:radio").each(function() {
-	    if ($('input:radio').is(':checked')) {
-
-	      $('#' + $('input:radio:checked').parent().parent().parent().parent().parent().attr("id") + ' .clear-choices').css("display", "inline");
-	    }
-	  });
+$("input:radio:checked").each(function() {
+	$('#' + $(this).parent().parent().parent().parent().parent().attr("id") + ' .clear-choices').css("display", "inline");  
+});
 
   $('.class123-threecol').hover(function() {
       //console.log($(e.target));
