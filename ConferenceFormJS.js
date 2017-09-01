@@ -116,7 +116,7 @@ $(document).ready(function() {
 		$(this).parent().parent().parent().parent().removeClass("focus");
 	});
 	
-	if($('.class123-threecol input').is(':checked')){
+	if($('input').is(':checked')){
 		
 		$('.clear-choices').css("display","inline");
 		
