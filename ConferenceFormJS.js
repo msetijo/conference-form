@@ -116,9 +116,8 @@ $(document).ready(function() {
 		$(this).parent().parent().parent().parent().removeClass("focus");
 	});
 	
-	if($('input:radio:checked').length){
-		
-		$('#'+$('input:radio:checked').parent().parent().parent().parent().attr("id")+' .clear-choices').css("display","inline");
+	  if($('input:radio').is(':checked')){
+		$('#'+$('input:radio:checked').parent().parent().parent().parent().parent().attr("id")+' .clear-choices').css("color","red");
 		
 	}	
 
