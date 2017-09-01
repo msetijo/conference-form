@@ -76,7 +76,7 @@ $(document).ready(function() {
   .after("<div class='thumbnail' id='wow1'><h3>Ways of Working</h3><h4>Misi Racz / Ivy Li</h4> UX tools and methods we used at Ericsson. <div class='link'><a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx?day=wednesday' target='_blank'>Read More</a></div></div>");
   $(".fieldtype-3-0 label[for='id123-control29381606_1'] .class123-labelinfo").text(" UX Track");
   $(".fieldtype-3-0 label[for='id123-control29381606_2'] ")
-  .after("<div class='thumbnail' id=''><h3>From NOC to SOC</h3><h4>Morgan L</h4> The presentation will focus on how we build what can be seen as one of the first XaaS service operations in a Global Service Centers. <div class='link'><a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx?day=wednesday'>Read More</a></div></div>");
+  .after("<div class='thumbnail' id=''><h3>From NOC to SOC</h3><h4>Morgan L</h4> The presentation will focus on how we build what can be seen as one of the first XaaS service operations in a Global Service Centers. <div class='link'><a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx?day=wednesday' target='_blank'>Read More</a></div></div>");
   $(".fieldtype-3-0 label[for='id123-control29381606_2'] .class123-labelinfo").text(" XaaS Track");
 
   /* DAY 2 10:45-11:45 Tooltip */
