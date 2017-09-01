@@ -116,7 +116,7 @@ $(document).ready(function() {
 		$(this).parent().parent().parent().parent().removeClass("focus");
 	});
 	
-	if($('input').is(':checked')){
+	if($('input:radio:checked').length){
 		
 		$('.clear-choices').css("display","inline");
 		
