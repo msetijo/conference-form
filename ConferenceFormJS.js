@@ -116,6 +116,11 @@ $(document).ready(function() {
 		$(this).parent().parent().parent().parent().removeClass("focus");
 	});
 	
+	if($('input:radio:checked').length){
+		
+		$('#'+$('input:radio:checked').parent().parent().parent().parent().attr("id")+' .clear-choices').css("display","inline");
+		
+	}	
 
   $('.class123-threecol').hover(function() {
       //console.log($(e.target));
