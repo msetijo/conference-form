@@ -109,7 +109,7 @@ $(document).ready(function() {
   .after("<div class='thumbnail' id='prodRelated2'><h3>Products Related & Keynote</h3><h4>Shivatheja Venkata / Britt-Marie Lindberg / Didier Chincholle</h4> UX design on Ericsson products. <div class='link'><a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx?day=wednesday' target='_blank'>Read More</a></div></div>");
   $(".fieldtype-3-0 label[for='id123-control29482222_1'] .class123-labelinfo").text(" UX Track");
   $(".fieldtype-3-0 label[for='id123-control29482222_2'] ")
-  .after("<div class='thumbnail' id='dcp'><h3>DCP / AI & Keynote</h3><h4>Beauford Atwater / Ioannis Fikouras / Jason Hoffman A</h4> Follow the DCP and Adaptive Inventory journeys in transforming to the as-a-Service business and delivery model.  <div class='link'><a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx?day=wednesday' target='_blank'>Read More</a></div></div>");
+  .after("<div class='thumbnail' id='dcp'><h3>DCP / AI & Keynote</h3><h4>Beauford Atwater / Ioannis Fikouras / Jason Hoffman</h4> Follow the DCP and Adaptive Inventory journeys in transforming to the as-a-Service business and delivery model.  <div class='link'><a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx?day=wednesday' target='_blank'>Read More</a></div></div>");
   $(".fieldtype-3-0 label[for='id123-control29482222_2'] .class123-labelinfo").text(" XaaS Track");
   
   $('.clear-choices').click(function() {
