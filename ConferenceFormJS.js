@@ -50,7 +50,7 @@ $(document).ready(function() {
   .after("<div class='thumbnail' id='designExploration'><h3>Design Exploration</h3><h4>Didier Chincholle / Tosh Sano / Silky Sethi</h4> Updates on hardware design and related industrial work. <div class='link'><a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx' target='_blank'>Read More</a></div></div>");
   $(".fieldtype-3-0 label[for='id123-control29381481_1'] .class123-labelinfo").text(" UX Track");
   $(".fieldtype-3-0 label[for='id123-control29381481_2'] ")
-  .after("<div class='thumbnail' id='cnaas'><h3>CNaaS / ENMaaS</h3><h4>Dag Johansson I / Neil Garnett</h4> Follow the ENM and Core Network journeys in transforming to the as-a-Service business and delivery model. <div class='link'><a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx' target='_blank'>Read More</a></div></div>");
+  .after("<div class='thumbnail' id='dcp'><h3>DCP / AI</h3><h4>Beauford Atwater / Ioannis Fikouras</h4> Follow the DCP and Adaptive Inventory journeys in transforming to the as-a-Service business and delivery model.  <div class='link'><a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx?day=tuesday' target='_blank'>Read More</a></div></div>");
   $(".fieldtype-3-0 label[for='id123-control29381481_2'] .class123-labelinfo").text(" XaaS Track");
 
   /* DAY 1 15:00-16:30 Tooltip */
@@ -103,13 +103,13 @@ $(document).ready(function() {
 
   /* DAY 2 15:00-16:00 Tooltip */
   $(".fieldtype-3-0 label[for='id123-control29482222_0'] ")
-  .after("<div class='thumbnail' id='devopsAction'><h3>DevOps in Action & Keynote</h3><h4>Per Petterson / Darlene Wilson</h4> Demo and discussion of the ADP Platform. <div class='link'><a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx?day=wednesday' target='_blank'>Read More</a></div></div>");
+  .after("<div class='thumbnail' id='devopsAction'><h3>DevOps in Action & Closing Session</h3><h4>Per Petterson / Darlene Wilson</h4> Demo and discussion of the ADP Platform. <div class='link'><a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx?day=wednesday' target='_blank'>Read More</a></div></div>");
   $(".fieldtype-3-0 label[for='id123-control29482222_0'] .class123-labelinfo").text(" DevOps Track");
   $(".fieldtype-3-0 label[for='id123-control29482222_1'] ")
-  .after("<div class='thumbnail' id='prodRelated2'><h3>Products Related & Keynote</h3><h4>Shivatheja Venkata / Britt-Marie Lindberg / Didier Chincholle</h4> UX design on Ericsson products. <div class='link'><a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx?day=wednesday' target='_blank'>Read More</a></div></div>");
+  .after("<div class='thumbnail' id='prodRelated2'><h3>Products Related & Closing Session</h3><h4>Shivatheja Venkata / Britt-Marie Lindberg / Didier Chincholle</h4> UX design on Ericsson products. <div class='link'><a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx?day=wednesday' target='_blank'>Read More</a></div></div>");
   $(".fieldtype-3-0 label[for='id123-control29482222_1'] .class123-labelinfo").text(" UX Track");
   $(".fieldtype-3-0 label[for='id123-control29482222_2'] ")
-  .after("<div class='thumbnail' id='dcp'><h3>DCP / AI & Keynote</h3><h4>Beauford Atwater / Ioannis Fikouras / Jason Hoffman</h4> Follow the DCP and Adaptive Inventory journeys in transforming to the as-a-Service business and delivery model.  <div class='link'><a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx?day=wednesday' target='_blank'>Read More</a></div></div>");
+  .after("<div class='thumbnail' id='dcp'><h3>XaaS Evolution & Closing Session</h3><h4>TBD / Jason Hoffman</h4>   <div class='link'><a href='https://ericsson.sharepoint.com/sites/customer_experience/cxproconference/SitePages/program.aspx?day=wednesday' target='_blank'>Read More</a></div></div>");
   $(".fieldtype-3-0 label[for='id123-control29482222_2'] .class123-labelinfo").text(" XaaS Track");
   
   $('.clear-choices').click(function() {
